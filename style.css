@@ -1,0 +1,33 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #1a1a1a;
+  color: #e6e6e6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+main {
+  text-align: center;
+  border: 2px dashed #ff33cc;
+  padding: 2rem;
+  border-radius: 12px;
+  background: #292929;
+  box-shadow: 0 0 20px #ff33cc88;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: #ff33cc;
+}
+
+a {
+  color: #33ccff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
